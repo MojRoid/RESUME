@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years experience / *Last Updated: 12th January 2015*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 12th January 2015*
 
 
 ---

@@ -49,7 +49,7 @@ src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvM
 
 [**PAD - Public Anonymous Diary.**](https://play.google.com/store/apps/details?id=dev.moj.pad) - *The PAD is a social platform for everyone. Share your stories with the world and be part of the global stream. No logins to mess with, so it's easy to get started in seconds.*
 
-- Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images, text and feedback buttons.
+- Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images (using Fresco by Facebook), text and feedback buttons.
 - Stores configuration and user data in the **cloud** using the [**Parse**](https://www.parse.com) Backend as a Service (BaaS).
 - Consumes several API's to enhance the application. These include [Giphy](https://api.giphy.com/), [Microsoft Translator API](https://www.microsoft.com/en-us/translator/translatorapi.aspx) and [Random Famous Quotes](https://market.mashape.com/andruxnet/random-famous-quotes). 
 
@@ -66,8 +66,9 @@ src="https://lh3.googleusercontent.com/6fmcZ1cbSX2Qm8qFokyZbkKFQ4SQYeNrmfXNL3T_w
 [**TIIK - Easy Buy. Easy Sell.**](https://play.google.com/store/apps/details?id=com.tiikit.tiik) - *The local buying and selling platform. Sell & buy locally - No login required!*
 
 - Implements real-time chat using the [Sinch](https://www.sinch.com/) API to handle backend publishing/subscribing.
+- Leverages Facebook's image loading library **[Fresco](http://frescolib.org/)** to display images with increased performance and lower memory usage.
 - Features include image/camera capture, location services, sharing/liking content and geofenced results fetching.
-- This application formed the basis for my final year project at uni as well inaugurating as my introduction into Android development. Source code can be found [here](https://github.com/MojRoid/TIIK).
+- This application formed the basis for my final year project at uni as well inaugurating as my introduction into Android development.
 
 ---
 # Education

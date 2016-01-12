@@ -7,7 +7,7 @@
 # Skills
 ---
 
-- Java/C++/**Android SDK, libraries and frameworks** /Android Studio/Gradle
+- Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
 - **Git**/UI/UX/Animation/**continuous integration**/Trello
 - Adobe Photoshop/logo and asset creation
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)

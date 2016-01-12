@@ -1,17 +1,17 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mojroid) / *Last Updated: 12th January 2015*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years experience / *Last Updated: 12th January 2015*
 
 
 ---
 # Skills
 ---
 
-- Java/C++/Android
-- Git/UI/UX/Animation
+- Java/C++/**Android SDK, libraries and frameworks** /Android Studio/Gradle
+- **Git**/UI/UX/Animation/**continuous integration**/Trello
 - Adobe Photoshop/logo and asset creation
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
-- Practical experience of the  development lifecycle; from prototyping/wireframing to publishing/shipping. 
+- Practical experience of the **development lifecycle**; from prototyping/wireframing to publishing/shipping. 
 
 
 - Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes to determine prime numbers within a given range. The report on these applications can be found [here](https://github.com/MojRoid/Uni/blob/master/C%2B%2B/ICPI%20Formal%20Report.pdf).
@@ -34,8 +34,8 @@ src="https://lh3.googleusercontent.com/klF-nofcXw-QpYnaIlItl4bxQxemyo4mg_3nnZAKz
 [**Will It Rain?**](https://play.google.com/store/apps/details?id=moj.rain) - *Find out when it will rain near you. Get information for every minute of the next hour, or every hour for the next 7 days; Powered by Dark Sky.*
 
 - Uses the [Smart Location Library](https://github.com/mrmans0n/smart-location-lib) to streamline access to the Android location services API.
-- Consumes JSON from the [forecast.io](http://forecast.io) API to display relevent data based on a given geographic coordinate.
-- Built using the Test Driven Development methodology (TDD); tools used include [JUnit4](http://junit.org/), [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/) and [Mockito](http://mockito.org/).
+- Consumes **JSON** from the [forecast.io](http://forecast.io) **RESTful API** to display relevent data based on a given geographic coordinate.
+- Built using the **Test Driven Development** methodology (TDD); tools used include [**JUnit 4**](http://junit.org/), [**Espresso**](https://google.github.io/android-testing-support-library/docs/espresso/) and [**Mockito**](http://mockito.org/).
 
 
 <img style=
@@ -50,7 +50,7 @@ src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvM
 [**PAD - Public Anonymous Diary.**](https://play.google.com/store/apps/details?id=dev.moj.pad) - *The PAD is a social platform for everyone. Share your stories with the world and be part of the global stream. No logins to mess with, so it's easy to get started in seconds.*
 
 - Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images, text and feedback buttons.
-- Stores configuration and user data in the cloud using the [Parse](https://www.parse.com) Backend as a Service (BaaS).
+- Stores configuration and user data in the **cloud** using the [**Parse**](https://www.parse.com) Backend as a Service (BaaS).
 - Consumes several API's to enhance the application. These include [Giphy](https://api.giphy.com/), [Microsoft Translator API](https://www.microsoft.com/en-us/translator/translatorapi.aspx) and [Random Famous Quotes](https://market.mashape.com/andruxnet/random-famous-quotes). 
 
 

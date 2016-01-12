@@ -11,7 +11,7 @@
 - **Git**/UI/UX/Animation/**continuous integration**/Trello
 - Adobe Photoshop/logo and asset creation
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
-- Practical experience of the **development lifecycle**; from prototyping/wireframing to publishing/shipping. 
+- **Agile/TDD**/Practical experience of the **development lifecycle**; from prototyping/wireframing to publishing/shipping. 
 
 
 - Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes to determine prime numbers within a given range. The report on these applications can be found [here](https://github.com/MojRoid/Uni/blob/master/C%2B%2B/ICPI%20Formal%20Report.pdf).

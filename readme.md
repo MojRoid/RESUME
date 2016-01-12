@@ -2,4 +2,4 @@
 
 Download résumé as [PDF file](https://github.com/MojRoid/RESUME/raw/master/Moj%20Abubakr%20-%20resume.pdf).
 
-View résumé as [web page](https://cdn.rawgit.com/MojRoid/RESUME/c516a9ed57a863304886f3942c982b868d0ce2e7/Moj%20Abubakr%20-%20resume.html).
+View résumé as [web page](https://cdn.rawgit.com/MojRoid/RESUME/d4fbabdc947fdaee6d0e15448b3a9dcee3696d19/Moj%20Abubakr%20-%20resume.html).

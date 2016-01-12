@@ -49,7 +49,7 @@ src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvM
 
 [**PAD - Public Anonymous Diary.**](https://play.google.com/store/apps/details?id=dev.moj.pad) - *The PAD is a social platform for everyone. Share your stories with the world and be part of the global stream. No logins to mess with, so it's easy to get started in seconds.*
 
-- Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images (using Fresco by Facebook), text and feedback buttons.
+- Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images, GIFs, text and buttons.
 - Stores configuration and user data in the **cloud** using the [**Parse**](https://www.parse.com) Backend as a Service (BaaS).
 - Consumes several API's to enhance the application. These include [Giphy](https://api.giphy.com/), [Microsoft Translator API](https://www.microsoft.com/en-us/translator/translatorapi.aspx) and [Random Famous Quotes](https://market.mashape.com/andruxnet/random-famous-quotes). 
 

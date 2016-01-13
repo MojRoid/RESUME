@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 12th January 2015*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 12th January 2015*
 
 
 ---
@@ -43,9 +43,9 @@ src="https://lh3.googleusercontent.com/klF-nofcXw-QpYnaIlItl4bxQxemyo4mg_3nnZAKz
 <img style=
 "float: left;
 PADDING-LEFT:   15px;
-PADDING-TOP:    30px;
+PADDING-TOP:    35px;
 PADDING-RIGHT:  40px;
-PADDING-BOTTOM: 30px"
+PADDING-BOTTOM: 20px"
 src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvMcdR1wAUfXOV-DX322ldrWCNRw=w75">
 
 
@@ -58,9 +58,9 @@ src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvM
 
 <img style=
 "float: left;
-PADDING-LEFT:   5px;
+PADDING-LEFT:   4px;
 PADDING-TOP:    15px;
-PADDING-RIGHT:  20px;
+PADDING-RIGHT:  25px;
 PADDING-BOTTOM: 20px"
 src="https://lh3.googleusercontent.com/6fmcZ1cbSX2Qm8qFokyZbkKFQ4SQYeNrmfXNL3T_wcUKg_jeKUKIOsxPRg3S679suYk=w100">
 

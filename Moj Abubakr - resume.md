@@ -4,7 +4,7 @@
 
 
 ---
-# Skills
+# Skills #
 ---
 
 - Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
@@ -13,12 +13,15 @@
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
 - **Agile/TDD**/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 
 - Currently learning RxJava, Kotlin, Wear, Architecture (Model View Controller/Presenter/ViewModel).
+
+
+
 - Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes to determine prime numbers within a given range.
 - Created a [GUI Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%201) to display an Archimedean Spiral with user given variables.
 - Created a [Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%202) which simulates several CPU scheduling algorithms such as FCFS, SJF and Round-Robin.
 
 ---
-# Projects
+# Projects #
 ---
 
 <img style=
@@ -70,7 +73,7 @@ src="https://lh3.googleusercontent.com/6fmcZ1cbSX2Qm8qFokyZbkKFQ4SQYeNrmfXNL3T_w
 - This application formed the basis for my final year project at uni as well inaugurating as my introduction into Android development.
 
 ---
-# Education
+# Education #
 ---
 
 **London South Bank University** | [BEng Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons) | *2013 to 2016*

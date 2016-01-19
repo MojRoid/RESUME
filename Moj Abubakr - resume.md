@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 16th January 2016*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 19th January 2016*
 
 
 ---
@@ -16,8 +16,8 @@
 
 
 
-- Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes to determine prime numbers within a given range.
-- Created a [GUI Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%201) to display an Archimedean Spiral with user given variables.
+- Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes.
+- Created a [GUI Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%201) to draw an Archimedean Spiral with user given variables.
 - Created a [Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%202) which simulates several CPU scheduling algorithms such as FCFS, SJF and Round-Robin.
 
 ---

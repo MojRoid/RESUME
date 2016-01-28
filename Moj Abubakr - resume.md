@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 19th January 2016*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 28th January 2016*
 
 
 ---
@@ -8,7 +8,7 @@
 ---
 
 - Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
-- **Git**/UI/UX/Animation/**continuous integration**/Trello
+- **Git**/UI/UX/Material Design/Animation/**continuous integration**/Trello
 - Adobe Photoshop/logo and asset creation
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
 - **Agile/TDD**/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 

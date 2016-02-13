@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2-3 years coding experience / *Last Updated: 28th January 2016*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 3+ years coding experience / *Last Updated: 12th February 2016*
 
 
 ---
@@ -70,7 +70,7 @@ src="https://lh3.googleusercontent.com/6fmcZ1cbSX2Qm8qFokyZbkKFQ4SQYeNrmfXNL3T_w
 - Implements real-time chat using the [Sinch](https://www.sinch.com/) API to handle backend publishing/subscribing.
 - Leverages Facebook's image loading library **[Fresco](http://frescolib.org/)** to display images with increased performance and lower memory usage.
 - Features include image/camera capture, location services, sharing/liking content and geofenced results fetching.
-- This application formed the basis for my final year project at uni as well inaugurating as my introduction into Android development.
+- This application formed the basis for my final year project at uni as well as inaugurating as my introduction into Android development.
 
 ---
 # Education #

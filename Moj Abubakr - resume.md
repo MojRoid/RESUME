@@ -1,6 +1,6 @@
 # Moj Abubakr #
 
-[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2+ years coding experience / *Last Updated: 23rd April 2016*
+[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2+ years coding experience / *Last Updated: 25rd April 2016*
 
 
 ---
@@ -12,7 +12,7 @@
 - Adobe Photoshop/logo and asset creation
 - Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
 - **Agile/TDD**/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 
-- Currently learning RxJava, Kotlin, Wear, Architecture (Model View Controller/Presenter/ViewModel).
+- Currently learning Agera, Dagger, RxJava, Retrofit, Kotlin, Wear, Architecture (Model View Controller/Presenter/ViewModel).
 
 
 

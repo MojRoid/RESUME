@@ -1,85 +1,48 @@
-# Moj Abubakr #
+# Moj Abubakr @mojroid #
 
-[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [dev.moj@gmail.com](mailto:dev.moj@gmail.com) / [GitHub](https://github.com/MojRoid) / [LinkedIn](https://www.linkedin.com/in/mojroid) / 2+ years coding experience / *Last Updated: 25th April 2016*
+[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: 17th June 2016*
 
+> *I'm a self-taught Android Developer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as an Android Software Engineer Intern.*
 
 ---
 # Skills #
 ---
 
 - Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
-- **Git**/UI/UX/Material Design/Animation/**continuous integration**/Trello
-- Adobe Photoshop/logo and asset creation
-- Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
-- **Agile/TDD**/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 
-- Currently learning Agera, Dagger, RxJava, Retrofit, Kotlin, Wear, Architecture (Model View Controller/Presenter/ViewModel).
+- **Git**/UI/UX/Material Design/Animation/**continuous integration**
+- Adobe Photoshop/logo and asset creation/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
+- **Agile/TDD**/Espresso/JUnit/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 
+- Currently learning Agera, Dagger 2, RxJava, Retrofit, Kotlin, Wear and software design/architecture.
+- My personal projects can be found over @ [play.google.com/store/apps/dev?id=8172763766761443972](https://play.google.com/store/apps/dev?id=8172763766761443972)
 
+---
+# Work #
+---
 
+**June 2016 - Current** | **Software Engineer Intern (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we reimagine the business and operations of the world’s leading organisations through mobile."*
 
-- Created [several C++ applications](https://github.com/MojRoid/Uni/tree/master/C%2B%2B); these include a simplified airline booking system, Morse code translator and a Sieve Of Eratosthenes.
-- Created a [GUI Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%201) to draw an Archimedean Spiral with user given variables.
-- Created a [Java application](https://github.com/MojRoid/Uni/tree/master/Java%20-%20Year%202) which simulates several CPU scheduling algorithms such as FCFS, SJF and Round-Robin.
+- Contributing to the success of The App Business by delivering commercial solutions.
+- Contributing to design and spec discussions and planning.
+- Writing technical architecture and component specs.
+- Developing fluid, reusable libraries.
+- Engineering alpha, beta and release candidate apps.
 
 ---
 # Projects #
 ---
 
-<img style=
-"float: left;
-PADDING-LEFT:   0px;
-PADDING-TOP:    15px;
-PADDING-RIGHT:  30px;
-PADDING-BOTTOM: 20px"
-src="https://lh3.googleusercontent.com/klF-nofcXw-QpYnaIlItl4bxQxemyo4mg_3nnZAKzrbv9zG1W6wPjo-0ud5mL7qBng=w100">
+Below are apps built in my spare time during my first year of learning to develop for Android (2015):
 
 
-[**Will It Rain?**](https://play.google.com/store/apps/details?id=moj.rain) - *Find out when it will rain near you. Get information for every minute of the next hour, or every hour for the next 7 days; Powered by Dark Sky.*
+[**Will It Rain?**](https://play.google.com/store/apps/details?id=moj.rain) - *"Find out when it will rain near you. Get information for every minute of the next hour, or every hour for the next 7 days; Powered by Dark Sky."* - [play.google.com/store/apps/details?id=moj.rain](https://play.google.com/store/apps/details?id=moj.rain)
 
-- Uses the [Smart Location Library](https://github.com/mrmans0n/smart-location-lib) to streamline access to the Android location services API.
-- Consumes **JSON** from the [forecast.io](http://forecast.io) **RESTful API** to display relevent data based on a given geographic coordinate.
-- Built using the **Test Driven Development** methodology (TDD); tools used include [**JUnit 4**](http://junit.org/), [**Espresso**](https://google.github.io/android-testing-support-library/docs/espresso/) and [**Mockito**](http://mockito.org/).
+[**PAD - Public Anonymous Diary.**](https://play.google.com/store/apps/details?id=dev.moj.pad) - *"The PAD is a social platform for everyone. Share your stories with the world and be part of the global stream. No logins to mess with, so it's easy to get started in seconds."* - [play.google.com/store/apps/details?id=dev.moj.pad](https://play.google.com/store/apps/details?id=dev.moj.pad)
 
-
-<img style=
-"float: left;
-PADDING-LEFT:   15px;
-PADDING-TOP:    35px;
-PADDING-RIGHT:  40px;
-PADDING-BOTTOM: 20px"
-src="https://lh3.googleusercontent.com/EEyEZ6H7lWOn2bYt2Z59a0TSmSBYxlQfLXkhQvvvMcdR1wAUfXOV-DX322ldrWCNRw=w75">
-
-
-[**PAD - Public Anonymous Diary.**](https://play.google.com/store/apps/details?id=dev.moj.pad) - *The PAD is a social platform for everyone. Share your stories with the world and be part of the global stream. No logins to mess with, so it's easy to get started in seconds.*
-
-- Implements a complex [RecylerView](http://developer.android.com/reference/android/support/v7/widget/RecyclerView.html) to display user generated content with the inclusion of images, GIFs, text and buttons.
-- Stores configuration and user data in the **cloud** using the [**Parse**](https://www.parse.com) Backend as a Service (BaaS).
-- Consumes several API's to enhance the application. These include [Giphy](https://api.giphy.com/), [Microsoft Translator API](https://www.microsoft.com/en-us/translator/translatorapi.aspx) and [Random Famous Quotes](https://market.mashape.com/andruxnet/random-famous-quotes). 
-
-
-<img style=
-"float: left;
-PADDING-LEFT:   4px;
-PADDING-TOP:    15px;
-PADDING-RIGHT:  25px;
-PADDING-BOTTOM: 20px"
-src="https://lh3.googleusercontent.com/6fmcZ1cbSX2Qm8qFokyZbkKFQ4SQYeNrmfXNL3T_wcUKg_jeKUKIOsxPRg3S679suYk=w100">
-
-
-[**TIIK - Easy Buy. Easy Sell.**](https://play.google.com/store/apps/details?id=com.tiikit.tiik) - *The local buying and selling platform. Sell & buy locally - No login required!*
-
-- Implements real-time chat using the [Sinch](https://www.sinch.com/) API to handle backend publishing/subscribing.
-- Leverages Facebook's image loading library **[Fresco](http://frescolib.org/)** to display images with increased performance and lower memory usage.
-- Features include image/camera capture, location services, sharing/liking content and geofenced results fetching.
-- This application formed the basis for my **[final year project](https://github.com/MojRoid/TIIK/raw/master/TIIK%20-%20Report.pdf)** at uni as well as inaugurating as my introduction into Android development.
+[**TIIK - Easy Buy. Easy Sell.**](https://play.google.com/store/apps/details?id=com.tiikit.tiik) - *"The local buying and selling platform. Sell & buy locally - No login required!"* - [play.google.com/store/apps/details?id=com.tiikit.tiik](https://play.google.com/store/apps/details?id=com.tiikit.tiik)
 
 ---
 # Education #
 ---
 
 **London South Bank University** | [BEng Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons) | *2013 to 2016*
->Expected a 2:1 or higher.
-
-
-
-**Lambeth College - Vauxhall** | [Level 3 Access to Higher Education - Electrical & Electronic Engineering](http://www.lambethcollege.ac.uk/courses/electrical-and-electronics-engineering-ocnlr-access-to-higher-education/category/adults/) | *2012 to 2013*
->Achieved 16 Distinctions (57 Level 3 Credits) within various Math and Electronic modules.
+>Graduated with a 1st class honours degree.

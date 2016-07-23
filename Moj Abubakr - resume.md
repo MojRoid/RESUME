@@ -1,31 +1,34 @@
 # Moj Abubakr @mojroid #
 
-[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: 17th June 2016*
+[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: 23rd July 2016*
 
-> *I'm a self-taught Android Developer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as an Android Software Engineer Intern.*
+> *I'm a self-taught Android Developer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as a Junior Android Software Engineer.*
 
 ---
 # Skills #
 ---
 
 - Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
-- **Git**/UI/UX/Material Design/Animation/**continuous integration**
+- Git/UI/UX/Material Design/Animation/continuous integration/Jira
 - Adobe Photoshop/logo and asset creation/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
-- **Agile/TDD**/Espresso/JUnit/Practical experience of the **development lifecycle**; prototyping/wireframing to publishing/shipping. 
-- Currently learning Agera, Dagger 2, RxJava, Retrofit, Kotlin, Wear and software design/architecture.
+- Agile/TDD/BDD/Espresso/JUnit/Practical experience of the development lifecycle; prototyping/wireframing to publishing/shipping.
+- Dagger 2, RxJava, Retrofit. Tend to use MVC architecture pattern.
+- Currently learning Agera, Kotlin, Wear and Unity in my spare time.
 - My personal projects can be found over @ [play.google.com/store/apps/dev?id=8172763766761443972](https://play.google.com/store/apps/dev?id=8172763766761443972)
 
 ---
 # Work #
 ---
 
-**June 2016 - Current** | **Software Engineer Intern (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we reimagine the business and operations of the world’s leading organisations through mobile."*
+**June 2016 - Current** | **Junior Software Engineer (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we reimagine the business and operations of the world’s leading organisations through mobile."*
 
 - Contributing to the success of The App Business by delivering commercial solutions.
 - Contributing to design and spec discussions and planning.
 - Writing technical architecture and component specs.
 - Developing fluid, reusable libraries.
 - Engineering alpha, beta and release candidate apps.
+
+- Contributed to [GoDrive](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford by implementing several user stories to the Android version of the app.
 
 ---
 # Projects #

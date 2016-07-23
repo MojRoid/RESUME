@@ -12,7 +12,7 @@
 - Git/UI/UX/Material Design/Animation/continuous integration/Jira
 - Adobe Photoshop/logo and asset creation/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
 - Agile/TDD/BDD/Espresso/JUnit/Practical experience of the development lifecycle; prototyping/wireframing to publishing/shipping.
-- Dagger 2, RxJava, Retrofit. Tend to use MVC architecture pattern.
+- Dagger 2, RxJava, Retrofit 2. Tend to use MVC architecture pattern.
 - Currently learning Agera, Kotlin, Wear and Unity in my spare time.
 - My personal projects can be found over @ [play.google.com/store/apps/dev?id=8172763766761443972](https://play.google.com/store/apps/dev?id=8172763766761443972)
 
@@ -20,15 +20,14 @@
 # Work #
 ---
 
-**June 2016 - Current** | **Junior Software Engineer (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we reimagine the business and operations of the world’s leading organisations through mobile."*
+**June 2016 - Current** | **Junior Software Engineer (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- Contributing to the success of The App Business by delivering commercial solutions.
-- Contributing to design and spec discussions and planning.
-- Writing technical architecture and component specs.
-- Developing fluid, reusable libraries.
-- Engineering alpha, beta and release candidate apps.
-
-- Contributed to [GoDrive](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford by implementing several user stories to the Android version of the app.
+- Contribute to the success of The App Business by delivering commercial solutions.
+- Contribute to design and spec discussions and planning.
+- Write technical architecture and component specs.
+- Develop fluid, reusable libraries.
+- Engineer alpha, beta and release candidate apps.
+- Contributed to [GoDrive](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford by implementing several features to the Android version of the app.
 
 ---
 # Projects #

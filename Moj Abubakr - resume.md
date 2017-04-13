@@ -1,36 +1,33 @@
 # Moj Abubakr @mojroid #
 
-[**Junior Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: 23rd July 2016*
+[**Android Developer**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: April 2017*
 
-> *I'm a self-taught Android Developer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as a Junior Android Software Engineer.*
+> *I'm an Android Developer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as an Android Software Engineer.*
 
 ---
 # Skills #
 ---
 
-- Java/C++/**Android SDK, libraries and frameworks**/Android Studio/Gradle
-- Git/UI/UX/Material Design/Animation/continuous integration/Jira
-- Adobe Photoshop/logo and asset creation/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/)
-- Agile/TDD/BDD/Espresso/JUnit/Practical experience of the development lifecycle; prototyping/wireframing to publishing/shipping.
-- Dagger 2, RxJava, Retrofit 2. Tend to use MVC architecture pattern.
-- Currently learning Agera, Kotlin, Wear and Unity in my spare time.
+- Java/C++/Git/Jira/**Android SDK, libraries and frameworks**/Android Studio/**[Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f)**/Gradle.
+- Embrace Agile principles and devOps/continuous integration culture.
+- Adobe Photoshop/Sketch/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/).
+- Commonly practice TDD/BDD using Espresso/JUnit/Mockito/Powermock/Robolectric/Truth.
+- Practical experience of the development lifecycle; Inception, Elaboration to Construction and Transition.
+- Common libraries used: Dagger 2, RxJava, Retrofit 2, Butterknife, AutoValue, Timber. Tend to use the MVP Clean architectural pattern.
+- Currently learning Agera, Kotlin, Go, SpringBoot, Wear, Sketch, Calabash and Unity in my spare time.
 - My personal projects can be found over @ [play.google.com/store/apps/dev?id=8172763766761443972](https://play.google.com/store/apps/dev?id=8172763766761443972)
 
 ---
 # Work #
 ---
 
-**June 2016 - Current** | **Junior Software Engineer (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
+**June 2016 - Current** | **Software Engineer (Android)** | [**The App Business**](http://www.theappbusiness.com/) - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- Contribute to the success of The App Business by delivering commercial solutions.
-- Contribute to design and spec discussions and planning.
-- Write technical architecture and component specs.
-- Develop fluid, reusable libraries.
-- Engineer alpha, beta and release candidate apps.
-- Contributed to [GoDrive](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford by implementing several features to the Android version of the app.
+- Contributed to [GoDrive](https://www.go-drive.com/) by Ford, features implemented include user accounts, search, on street and hub parking functionality.
+- Contributed heavily to the [MetOffice](http://www.metoffice.gov.uk/services/mobile-digital-services/weather-app) weather app which currently has a 4.2 star rating and over 2 million total downloads across Android and iOS; implemented several key features including but not limited to widgets, weather snapshots, weather warnings and mapping.
 
 ---
-# Projects #
+# Personal Projects #
 ---
 
 Below are apps built in my spare time during my first year of learning to develop for Android (2015):

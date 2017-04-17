@@ -2,16 +2,16 @@
 
 [**Software Engineer (Android)**](https://play.google.com/store/apps/dev?id=8172763766761443972) / London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / *Last Updated: April 2017*
 
-> *I'm a Software Engineer from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI/machine learning, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency as an Android Software Engineer.*
+> *I'm a Software Engineer specializing in Android from London. I'm very interested in current trends and the future of technology including wearables, VR, AR, AI/machine learning, automation, design and IoT. I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I currently work at The App Business, a London based app agency.*
 
 ---
 # Skills #
 ---
 
-- Java/C++/Android SDK, libraries and frameworks/Android Studio/**[Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f)**/Gradle/Git/Jira/Slack/Google Play Developer Console/TeamCity.
-- Embrace Agile principles and devOps/continuous integration culture.
-- Adobe Photoshop/Sketch/Adobe Premiere/[film-making](https://www.youtube.com/watch?v=dLm-860kFT8)/[photography](http://moj-a.tumblr.com/).
-- Commonly practice TDD/BDD using Espresso/JUnit/Mockito/Powermock/Robolectric/Truth.
+- Java / C++ / Android SDK, libraries and frameworks / Android Studio / **[Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f)** / Gradle / Git / Jira / Slack / Google Play Developer Console / TeamCity.
+- Embrace Agile principles and devOps / continuous integration culture.
+- Adobe Photoshop / Sketch / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+- Commonly practice TDD / BDD using Espresso / JUnit / Mockito / Powermock / Robolectric / Truth.
 - Practical experience of the development lifecycle; Inception, Elaboration to Construction and Transition.
 - Common libraries used: Dagger 2, RxJava, Retrofit 2, Butterknife, AutoValue, Timber. Tend to use the MVP Clean architectural pattern.
 - Currently learning Agera, Kotlin, Go, Spring Boot, Wear, Sketch and Calabash in my spare time.
@@ -31,7 +31,7 @@
 # Personal Projects #
 ---
 
-List of personal challenges I take on to aid my learning as a developer outside of work commitments. These challenges have a set deadline of 1 month from start and finish.
+List of personal challenges I take on to aid my learning as a developer outside of work commitments. These challenges have a set deadline of 1 month from start to finish.
 
 [**Android Things - IoT Weather Display.**](https://github.com/MojRoid/iot-weather) - *An Android Things prototype application that displays live weather using the DarkSky API. Originally developed on the Raspberry Pi 3 with the Rainbow HAT. Blog post on the project can be found [**here**](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f).*
 [**Will It Rain?**](https://play.google.com/store/apps/details?id=moj.rain) - *"Find out when it will rain near you. Get information for every minute of the next hour, or every hour for the next 7 days; Powered by Dark Sky."*

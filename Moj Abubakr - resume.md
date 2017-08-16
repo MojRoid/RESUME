@@ -1,5 +1,4 @@
-# Moj
-of the House Abubakr, First of My Name, the Engineer, Master of Android, King of Clean Architecture, Separator of Concerns.
+# Moj Abubakr
 
     Software Engineer (Android)
 

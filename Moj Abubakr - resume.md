@@ -1,4 +1,5 @@
-# Moj Abubakr
+# Moj
+of the House Abubakr, First of My Name, the Engineer, Master of Android, King of Clean Architecture, Separator of Concerns.
 
     Software Engineer (Android)
 
@@ -27,4 +28,4 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 [![MetOffice](http://i.imgur.com/H9a0eGP.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) | *[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather app.* App currently has a 4+ star rating and over 3,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
 [![Ford-GoDrive](http://i.imgur.com/RWv70Mw.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) | *[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors.* Rapid iteration on Ford's car hire service. Features implemented include user accounts, search, on street and hub parking functionality.
 
-- Pitching to clients. Delivering technical and non-technical presentations to stake holders and team members. Mentoring and leading junior members of the team. Active participation in recruitment and growth of our Android specialists.
+- Pitching to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentoring and leading junior members of the team. Active participation in recruitment and growth of our Android specialists.

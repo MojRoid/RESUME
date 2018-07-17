@@ -2,11 +2,9 @@
 
     Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: March 2018*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: July 2018*
 
-> *I'm a Software Engineer from London, specializing in Android development. I have experience working in rapid delivery agile teams, building robust, scalable, world class Android applications. I have experience leading and working with both in-house and remote teams to deliver beautiful, high quality working software. I embrace and advocate TDD, agile principles and DevOps/continuous integration culture. I'm also big on functional programming, architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in AI and machine learning, and learn as much as I can about the subjects in my spare time.*
->
-*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I'm currently at Deliveroo working within the restaurant core team.*
+> *I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in AI and machine learning, and learn as much as I can about the subjects in my spare time. I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I'm currently at Deliveroo working in the restaurants team.*
 
 # Skills #
 ---
@@ -18,7 +16,7 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 
 [![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - Current** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
-- Building the restaurant order manager app.
+- Working in the restaurants team building the restaurant live orders app. Features implemented include; a Bluetooth printer library used to print order receipts, a web-socket library to provide real-time connection with our servers to eliminate the need for polling, Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
 
 [![TAB](./icons-20/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 

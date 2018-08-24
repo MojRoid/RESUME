@@ -16,7 +16,12 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 
 [![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - Current** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
-- Working in the restaurants team building the restaurant live orders app. Features implemented include; a Bluetooth printer library used to print order receipts, a web-socket library to provide real-time connection with our servers to eliminate the need for polling, Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
+- Working in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
+- Took an active lead position, engaging with product roadmap, discovery and feature refinement.
+- Features implemented include; a Bluetooth printer library used to print order receipts, a web-socket library to provide real-time connection with our servers to both eliminate the need for polling and it's associated polling delay, Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
+- Converted the vast majority of the app from Java to Kotlin.
+- Streamlined our release process through automation and CI optimizations.
+- Active participation in our restaurant software strategy.
 
 [![TAB](./icons-20/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
@@ -29,7 +34,9 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 # References #
 ---
 
-[**TAB Insights**](http://www.theappbusiness.com/insights/tab-asks-ryan-loader) - *"One of our Android devs, Moj, shared an amazing product story - drilling into the detail of what moves a project from good to great. Moj’s story was about how labels are positioned in the Met Office app we built. Two things struck me during that presentation; the first was how Moj’s brilliant explanation of complicated algorithms to a largely non-technical audience using just a whiteboard; he obviously had a very strong understanding of the subject matter. The second was the amount of work that went into a feature that no user was ever going to think about, but which improved the experience for everyone. It was a fantastic story I found really inspiring."*
+[**TAB Insights**](http://www.theappbusiness.com/insights/tab-asks-ryan-loader) - *"One of our Android devs, Moj, shared an amazing product story - drilling into the detail of what moves a project from good to great. Moj’s story was about how labels are positioned in the Met Office app we built. Two things struck me during that presentation; the first was Moj’s brilliant explanation of complicated algorithms to a largely non-technical audience using just a whiteboard; he obviously had a very strong understanding of the subject matter. The second was the amount of work that went into a feature that no user was ever going to think about, but which improved the experience for everyone. It was a fantastic story I found really inspiring."*
+
+[**Medium**](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83) - *Clean architecture on Android — Kotlin, Feature Modules, MVVM, Architecture Components, View Slices and BDD tests.*
 
 [**Medium**](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) - *Blog post on Android Things, Google's IoT platform.*
 

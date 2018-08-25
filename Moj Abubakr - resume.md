@@ -40,5 +40,8 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 
 [**Medium**](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) - *Blog post on Android Things, Google's IoT platform.*
 
+[**Medium**](https://medium.com/@mojroid/android-gradle-tasks-written-in-kotlin-1aa6cc733773) - *Blog post on Gradle tasks written in Kotlin.*
+
+[**Medium**](https://medium.com/@mojroid/android-automating-app-versioning-67aa201c9014) - *Blog post on Automating app versioning.*
 
 [**IBM**](https://developer.ibm.com/watson/blog/2015/07/13/london-south-bank-university-hackathon/) - *Winning team for the IBM Bluemix Hackathon held at LSBU.*

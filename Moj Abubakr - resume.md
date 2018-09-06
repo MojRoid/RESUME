@@ -9,7 +9,7 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 # Skills #
 ---
 
-- Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / Gradle / Git / Jira / Slack / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Functional Programming / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Dagger / RxJava / Retrofit / GraphQL / Room / Architecture Components / Butterknife / AutoValue / Timber / SQLite / Google Analytics / MVP Clean / MVVM / MVC / Adobe Photoshop / Illustrator / Sketch / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+- Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVC / Dagger / RxJava / Retrofit / GraphQL / Room / Architecture Components / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Slack / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Functional Programming / Butterknife / AutoValue / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Adobe Photoshop / Illustrator / Sketch / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
 
 # Work #
 ---

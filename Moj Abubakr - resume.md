@@ -1,35 +1,43 @@
 # Moj Abubakr
 
-    Software Engineer (Android)
+    Contract Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: September 2018*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: October 2018*
 
-*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time. I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I'm currently at Deliveroo working in the restaurants team.*
+# Profile #
+---
+
+*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time.*
+
+*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently a contract software engineer, learning more about different domains, teams and ways of working.*
 
 # Skills #
 ---
 
-- Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVC / Dagger / RxJava / Retrofit / GraphQL / Room / Architecture Components / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Slack / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Functional Programming / Butterknife / AutoValue / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Adobe Photoshop / Illustrator / Sketch / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+- Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
 
 # Work #
 ---
 
-[![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - Current** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
+[![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
-- Working in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
-- Took an active lead position, engaging with product roadmap, discovery and feature refinement.
-- Features implemented include; a Bluetooth printer library used to print order receipts, a web-socket library to provide real-time connection with our servers to both eliminate the need for polling and it's associated polling delay, Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
+- Worked in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
+- Took an active lead position, engaging with product roadmap, discovery and planning.
+- Actively participated in the restaurant software, hardware and deployment strategies.
+- Rebuilt the legacy Bluetooth printer code (which is used to print order receipts) into a library written entirely in Kotlin.
+- Led development on a WebSocket backed library to provide real-time connection with the backend servers to both eliminate the need for polling and it's associated polling delay. This reduced server load by more than 60%+ and showed new orders to restaurants up-to 15 seconds quicker.
+- Improved and simplified the feature flagging, variant experimentation and analytics tracking setup, making it easier and quicker to use.
+- Other features implemented include Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
 - Converted the vast majority of the app from Java to Kotlin.
-- Streamlined our release process through automation and CI optimizations.
-- Active participation in our restaurant software strategy.
+- Streamlined release processes through automated steps and CI optimizations.
 
 [![TAB](./icons-20/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icons-20/tesco.png)](https://www.tesco.com) *[**Tesco**](https://www.tesco.com) grocery home shopping.* Leading development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, slots and home screens.
+- [![Tesco](./icons-20/tesco.png)](https://www.tesco.com) *[**Tesco**](https://www.tesco.com) grocery home shopping.* Lead development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
 - [![MetOffice](./icons-20/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) *[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather.* Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
 - [![Ford-GoDrive](./icons-20/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) *[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors.* Rapid iteration on Ford's car hire service. Features implemented include user accounts, search, on street and hub parking functionality.
 
-- Pitching to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentoring and leading junior members of the team. Active participation in recruitment and growth of our Android specialists.
+- Pitched to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentored and lead junior members of the team. Actively participated in recruitment and growth of the Android specialists.
 
 # References #
 ---

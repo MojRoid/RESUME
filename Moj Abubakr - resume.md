@@ -9,12 +9,12 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 
 *I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time.*
 
-*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently a contract software engineer, learning more about different domains, teams and ways of working.*
+*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working.*
 
 # Skills #
 ---
 
-- Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
 
 # Work #
 ---
@@ -25,7 +25,7 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 - Took an active lead position, engaging with product roadmap, discovery and planning.
 - Actively participated in the restaurant software, hardware and deployment strategies.
 - Rebuilt the legacy Bluetooth printer code (which is used to print order receipts) into a library written entirely in Kotlin.
-- Led development on a WebSocket backed library to provide real-time connection with the backend servers to both eliminate the need for polling and it's associated polling delay. This reduced server load by more than 60%+ and showed new orders to restaurants up-to 15 seconds quicker.
+- Led development on a WebSocket backed library to provide real-time connection with the backend servers to both eliminate the need for polling and it's associated polling delay. This reduced server load by more than 60%+ and showed new orders to restaurants up to 15 seconds quicker.
 - Improved and simplified the feature flagging, variant experimentation and analytics tracking setup, making it easier and quicker to use.
 - Other features implemented include Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
 - Converted the vast majority of the app from Java to Kotlin.

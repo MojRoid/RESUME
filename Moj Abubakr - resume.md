@@ -1,8 +1,8 @@
 # Moj Abubakr
 
-    Contract Software Engineer (Android)
+    Contractor - Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: October 2018*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: November 2018*
 
 # Profile #
 ---
@@ -19,13 +19,17 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
+[![Novoda](./icons-20/novoda.png)](https://deliveroo.co.uk/) [**Novoda**](https://novoda.com/) | **November 2018 - Current** | **Contractor - Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."*                                                                                         
+
+- Currently contracting at Novoda.
+
 [![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
 - Worked in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
 - Took an active lead position, engaging with product roadmap, discovery and planning.
 - Actively participated in the restaurant software, hardware and deployment strategies.
 - Rebuilt the legacy Bluetooth printer code (which is used to print order receipts) into a library written entirely in Kotlin.
-- Led development on a WebSocket backed library to provide real-time connection with the backend servers to both eliminate the need for polling and it's associated polling delay. This reduced server load by more than 60%+ and showed new orders to restaurants up to 15 seconds quicker.
+- Led development on a WebSocket backed library to provide real-time connection with the backend servers to both eliminate the need for polling and it's associated polling delay. This reduced server load by more than 60%+ and showed new orders to restaurants up to 30 seconds quicker.
 - Improved and simplified the feature flagging, variant experimentation and analytics tracking setup, making it easier and quicker to use.
 - Other features implemented include Marketplace+ support, code-base modularization to better improve architecture as well as several other product enhancements and features.
 - Converted the vast majority of the app from Java to Kotlin.
@@ -33,11 +37,11 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 [![TAB](./icons-20/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icons-20/tesco.png)](https://www.tesco.com) *[**Tesco**](https://www.tesco.com) grocery home shopping.* Lead development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
+- [![Tesco](./icons-20/tesco.png)](https://www.tesco.com) *[**Tesco**](https://www.tesco.com) grocery home shopping.* Led development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
 - [![MetOffice](./icons-20/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) *[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather.* Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
-- [![Ford-GoDrive](./icons-20/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) *[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors.* Rapid iteration on Ford's car hire service. Features implemented include user accounts, search, on street and hub parking functionality.
+- [![Ford-GoDrive](./icons-20/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) *[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors.* Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
 
-- Pitched to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentored and lead junior members of the team. Actively participated in recruitment and growth of the Android specialists.
+- Pitched to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentored and led junior members of the team. Actively participated in recruitment and growth of the Android specialists.
 
 # References #
 ---

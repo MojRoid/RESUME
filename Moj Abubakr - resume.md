@@ -19,11 +19,15 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![Novoda](./icons-20/novoda.png)](https://deliveroo.co.uk/) [**Novoda**](https://novoda.com/) | **November 2018 - Current** | **Contractor - Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."*                                                                                         
+![MOJROID LTD](./icon/mojroid.png) **MOJROID LTD** | **October 2018 - Current** | **Director / Contractor - Software Engineer (Android)**
 
-- Currently contracting at Novoda.
+- Currently contracting, learning more about different domains, teams and ways of working.
 
-[![Deliveroo](./icons-20/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
+**Clients:**
+
+- [![Novoda](./icon/novoda.png)](https://novoda.com) _[**Novoda**](https://novoda.com)._ Working on a high profile project (under NDA).
+
+[![Deliveroo](./icon/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
 - Worked in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
 - Took an active lead position, engaging with product roadmap, discovery and planning.
@@ -35,11 +39,11 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 - Converted the vast majority of the app from Java to Kotlin.
 - Streamlined release processes through automated steps and CI optimizations.
 
-[![TAB](./icons-20/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
+[![TAB](./icon/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icons-20/tesco.png)](https://www.tesco.com) *[**Tesco**](https://www.tesco.com) grocery home shopping.* Led development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
-- [![MetOffice](./icons-20/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) *[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather.* Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
-- [![Ford-GoDrive](./icons-20/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) *[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors.* Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
+- [![Tesco](./icon/tesco.png)](https://www.tesco.com) _[**Tesco**](https://www.tesco.com) grocery home shopping._ Led development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
+- [![MetOffice](./icon/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) _[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather._ Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
+- [![Ford-GoDrive](./icon/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) _[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors._ Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
 
 - Pitched to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentored and led junior members of the team. Actively participated in recruitment and growth of the Android specialists.
 

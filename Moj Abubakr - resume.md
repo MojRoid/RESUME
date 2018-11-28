@@ -1,6 +1,6 @@
 # Moj Abubakr
 
-    Software Engineer (Android)
+    Senior Software Engineer (Android)
 
 London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: November 2018*
 
@@ -19,9 +19,9 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - Current** | **Contractor - Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - Current** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
-- Working on a high profile project (under NDA).
+- Working on a high profile project (under NDA). 
 
 [![Deliveroo](./icon/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 

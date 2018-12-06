@@ -2,12 +2,12 @@
 
     Senior Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: November 2018*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: December 2018*
 
 # Profile #
 ---
 
-*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time.*
+*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
 
 *I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working.*
 
@@ -19,9 +19,13 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - Current** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - January 2019** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
-- Working on a high profile project (under NDA). 
+- Worked on a connected car app offered by AT&T America.
+- Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.
+- Actively led various technical discussions, championing simplicity, quality and user need.
+- Updated and refactored the app to use the new AndroidX support libraries.
+- Frequently mentored other members of the team to help distribute knowledge and up-skill where needed.
 
 [![Deliveroo](./icon/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 

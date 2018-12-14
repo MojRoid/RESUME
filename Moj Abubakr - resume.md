@@ -25,7 +25,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.
 - Actively led various technical discussions, championing simplicity, quality and user need.
 - Updated and refactored the app to use the new AndroidX support libraries.
-- Frequently mentored other members of the team to help distribute knowledge and up-skill where needed.
+- Mentored other members of the team to help distribute knowledge and up-skill where needed.
 
 [![Deliveroo](./icon/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 

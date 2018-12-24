@@ -21,7 +21,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 [![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
-- Worked on a connected car app offered by AT&T America.
+- Worked on a connected car app offered by Samsung Harman and AT&T America.
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.
 - Actively led various technical discussions, championing simplicity, quality and user need.
 - Updated and refactored the app to use the new AndroidX support libraries.

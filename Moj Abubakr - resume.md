@@ -19,6 +19,8 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
+[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - Current** | **Contractor - Senior Software Engineer (Android)** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."* 
+
 [![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
 - Worked on a connected car app offered by Samsung Harman and AT&T America.
@@ -43,7 +45,7 @@ Project ended due to client strategy pivot.
 
 [![TAB](./icon/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icon/tesco.png)](https://www.tesco.com) _[**Tesco**](https://www.tesco.com) grocery home shopping._ Led development on Tesco's new grocery home shopping app (not yet released). Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
+- [![Tesco](./icon/tesco.png)](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) _[**Tesco**](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) grocery home shopping._ Led development on Tesco's new grocery home shopping app. Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
 - [![MetOffice](./icon/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) _[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather._ Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
 - [![Ford-GoDrive](./icon/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) _[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors._ Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
 

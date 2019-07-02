@@ -1,13 +1,13 @@
 # Moj Abubakr
 
-    Senior Software Engineer (Android)
+    Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: January 2019*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: June 2019*
 
 # Profile #
 ---
 
-*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate TDD, agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy continuously learning new technologies and ways of working. I'm particularly interested in IoT, AI and machine learning, and learn as much as I can about the subjects in my spare time. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
+*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I'm particularly interested in IoT, game development, AI and machine learning, and learn as much as I can about the subjects in my spare time. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
 
 *I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working.*
 
@@ -19,9 +19,17 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - Current** | **Contractor - Senior Software Engineer (Android)** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."* 
+[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - Current** | **Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 
-[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** | **Contractor - Senior Software Engineer (Android)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+- Delivered an entire app redesign by implementing the new visual language which required consolidation of the styling and theming architecture to build out reusable, dynamic visual components. This provided consistency, flexibility and a huge reduction of UI technical debt. Led discussions on approach, deployment and roll-out strategies which allowed us to work simultaneously on the visual overhaul without impacting other ongoing work.
+- Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
+- Worked frequently with other disciplines to mentor, share knowledge and ideate improvements to features, processes and ways of working.  
+- Implemented and refined deep-linking across the app.
+- Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
+- Successfully delivered the Kingdom of Saudi Arabia app under extremely tight time constraints requiring me to coordinate efforts across multiple disciplines. Concerted efforts were made to over-communicate to ensure transparency and clarity whilst maintaining a high standard of quality throughout delivery of the project.
+- Delivered an overhaul to the payments flow to support additional payment methods such as PayPal alongside various UI and UX improvements to simplify the checkout flow.
+
+[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** | **Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
 - Worked on a connected car app offered by Samsung Harman and AT&T America.
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.
@@ -45,7 +53,7 @@ Project ended due to client strategy pivot.
 
 [![TAB](./icon/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icon/tesco.png)](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) _[**Tesco**](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) grocery home shopping._ Led development on Tesco's new grocery home shopping app. Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
+- [![Tesco](./icon/tesco.png)](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) _[**Tesco**](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) grocery home shopping._ Development on Tesco's new grocery home shopping app. Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
 - [![MetOffice](./icon/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) _[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather._ Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
 - [![Ford-GoDrive](./icon/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) _[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors._ Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
 

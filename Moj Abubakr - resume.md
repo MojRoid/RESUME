@@ -21,13 +21,12 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 [![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 
-- Delivered an entire app redesign by implementing the new visual language which required consolidation of the styling and theming architecture to build out reusable, dynamic visual components. This provided consistency, flexibility of usage and a huge reduction of UI technical debt. Led discussions on approach, deployment and roll-out strategies which allowed us to work simultaneously on the visual overhaul without impacting other ongoing work.
-- Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
-- Successfully delivered the Kingdom of Saudi Arabia app under extremely tight time constraints requiring me to coordinate efforts across multiple disciplines. Concerted efforts were made to over-communicate to ensure transparency and clarity whilst maintaining a high standard of quality throughout delivery of the project.
 - Delivered an overhaul to the payments flow to support additional payment methods such as PayPal alongside various UI and UX improvements to simplify the checkout flow.
-- Implemented and refined deep-linking across the app.
-- Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
+- Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
+- Worked on Delivering an entire app redesign by implementing the new visual language, requiring consolidation of the styling and theming architecture to build out reusable, dynamic visual components. This provided consistency and flexibility alongside a huge reduction of UI technical debt. Led discussions on deployment and roll-out strategies which allowed us to work simultaneously on the visual overhaul without impacting other ongoing work.
+- Successfully delivered the Kingdom of Saudi Arabia app under extremely tight time constraints, requiring concerted efforts to over-communicate to ensure transparency and clarity whilst maintaining a high standard of quality throughout delivery of the project.
 - Worked frequently with other disciplines to mentor, share knowledge and ideate improvements to features, processes and ways of working.
+- Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
 
 [![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 

@@ -2,12 +2,12 @@
 
     Software Engineer (Android) - Contractor
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: August 2019*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: November 2019*
 
 # Profile #
 ---
 
-*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I'm particularly interested in IoT, game development, AI and machine learning, and learn as much as I can about the subjects in my spare time. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
+*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
 
 *I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working. In the future, I'd be excited to hone my skills as a servant leader and work towards a career in engineering management.*
 
@@ -18,6 +18,15 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 # Work #
 ---
+
+[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** | **Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+
+- STRYDE is a start-up incubated by [BP Launchpad](https://www.bp.com/en/global/corporate/what-we-do/technology-at-bp/bp-launchpad.html).
+- Worked on delivering an industrious, greenfield application used by field workers to deploy seismic loggers in varying parts of the world.
+- Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders alike.
+- Took initiative and facilitated where needed, advocating self-organization and shared ownership of the process given the small team size.
+- App features include survey plan importing/reporting, positional guidance and the development of a Bluetooth library used to communicate with initialization devices.
+- The app followed clean architecture and SOLID principles, feature modules, 100% Kotlin, Dagger, architecture components, Room and coroutines.  
 
 [![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 

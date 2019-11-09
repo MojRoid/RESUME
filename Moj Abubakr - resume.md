@@ -21,12 +21,12 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 [![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** | **Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
-- STRYDE is a start-up incubated by [BP Launchpad](https://www.bp.com/en/global/corporate/what-we-do/technology-at-bp/bp-launchpad.html).
-- Worked on delivering an industrious, greenfield application used by field workers to deploy seismic loggers in varying parts of the world.
+- Joined STRYDE, a start-up incubated by BP Launchpad as their first software engineer hire.
+- Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.
 - Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders alike.
 - Took initiative and facilitated where needed, advocating self-organization and shared ownership of the process given the small team size.
-- App features include survey plan importing/reporting, positional guidance and the development of a Bluetooth library used to communicate with initialization devices.
-- The app followed clean architecture and SOLID principles, feature modules, 100% Kotlin, Dagger, architecture components, Room and coroutines.  
+- App features developed include survey plan importing, end of day reporting and the development of a bespoke positional guidance system.
+- The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Dagger, architecture components, BDD tests, Room and coroutines.
 
 [![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 

@@ -9,7 +9,7 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 
 *I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
 
-*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working. In the future, I'd be excited to hone my skills as a servant leader and work towards a career in engineering management.*
+*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working. In the future, I'd be excited to work on my own start-up.*
 
 # Skills #
 ---

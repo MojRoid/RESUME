@@ -19,7 +19,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** | **Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
 - Joined STRYDE, a start-up incubated by BP Launchpad as their first software engineer hire.
 - Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.

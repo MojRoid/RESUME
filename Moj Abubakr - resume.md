@@ -1,15 +1,17 @@
 # Moj Abubakr
 
-    Software Engineer (Android) - Contractor
+    Founder & Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: November 2019*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: March 2020*
 
 # Profile #
 ---
 
-*I'm a Software Engineer from London, specializing in Android development. I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
+*I'm a Software Engineer from London, specializing in Android development. I'm also founder and operator of a small startup called Orderun.*
 
-*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I'm currently contracting, learning more about different domains, teams and ways of working. In the future, I'd be excited to work on my own start-up.*
+*I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
+
+*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I've contracted for various companies, allowing me to rapidly learn more about different domains, teams and ways of working. I'm currently enjoying running my own startup.*
 
 # Skills #
 ---
@@ -19,16 +21,20 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+[![Orderun](./icon/orderun.png)](https://orderun.app/) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
+
+- Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
+
+[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
 - Joined STRYDE, a start-up incubated by BP Launchpad as their first software engineer hire.
 - Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.
-- Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders alike.
+- Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders.
 - Took initiative and facilitated where needed, advocating self-organization and shared ownership of the process given the small team size.
 - App features developed include survey plan importing, end of day reporting and the development of a bespoke positional guidance system.
 - The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Dagger, architecture components, BDD tests, Room and coroutines.
 
-[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
+[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 
 - Delivered an overhaul to the payments flow to support additional payment methods such as PayPal alongside various UI and UX improvements to simplify the checkout flow.
 - Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
@@ -37,7 +43,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 - Worked frequently with other disciplines to mentor, share knowledge and ideate improvements to features, processes and ways of working.
 - Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
 
-[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Senior Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
 - Worked on a connected car app offered by Samsung Harman and AT&T America.
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.

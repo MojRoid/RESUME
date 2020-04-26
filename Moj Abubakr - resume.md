@@ -23,7 +23,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 [![Orderun](./icon/orderun.png)](https://orderun.app/) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
 
-- Founded Orderun, a point-of-sale ecosystem using technology to empower restaurants, cafes and takeaways to work better.
+- Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
 
 [![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 

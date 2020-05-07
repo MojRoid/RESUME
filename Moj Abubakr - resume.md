@@ -1,8 +1,8 @@
 # Moj Abubakr
 
-    Founder & Software Engineer (Android)
+    Founder & Senior Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: March 2020*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: May 2020*
 
 # Profile #
 ---

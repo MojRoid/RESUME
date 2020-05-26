@@ -21,20 +21,26 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-[![Orderun](./icon/orderun.png)](https://orderun.app/) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
+![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Senior Software Engineer (Android) - Contractor** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
+
+- Working on building a new field services app used by thousands of engineers when installing smart meters, electrical vehicle charge points and
+in-home batteries.
+- Playing a critical part in societies efforts to hit net zero and of octopus's vision of bringing affordable green energy to everyone.
+
+![Orderun](./icon/orderun.png) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
 
 - Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
 
-[![STRYDE](./icon/stryde.png)](https://www.strydefurther.com/) [**STRYDE**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
-- Joined STRYDE, a start-up incubated by BP Launchpad as their first software engineer hire.
+- Joined Stryde, a start-up incubated by BP Launchpad as their first software engineer hire.
 - Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.
 - Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders.
 - Took initiative and facilitated where needed, advocating self-organization and shared ownership of the process given the small team size.
 - App features developed include survey plan importing, end of day reporting and the development of a bespoke positional guidance system.
 - The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Dagger, architecture components, BDD tests, Room and coroutines.
 
-[![Babylon Health](./icon/babylon.png)](https://www.babylonhealth.com/) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
+![Babylon Health](./icon/babylon.png) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 
 - Delivered an overhaul to the payments flow to support additional payment methods such as PayPal alongside various UI and UX improvements to simplify the checkout flow.
 - Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
@@ -43,7 +49,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 - Worked frequently with other disciplines to mentor, share knowledge and ideate improvements to features, processes and ways of working.
 - Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
 
-[![Novoda](./icon/novoda.png)](https://novoda.com) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Senior Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+![Novoda](./icon/novoda.png) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Senior Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
 - Worked on a connected car app offered by Samsung Harman and AT&T America.
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.
@@ -53,7 +59,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 
 Project ended due to client strategy pivot.
 
-[![Deliveroo](./icon/deliveroo.png)](https://deliveroo.co.uk/) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** (8 months) | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
+![Deliveroo](./icon/deliveroo.png) [**Deliveroo**](https://deliveroo.co.uk/) | **March 2018 - October 2018** (8 months) | **Software Engineer (Android)** - *"Your favourite restaurants, delivered fast to your door."*                                                                                         
 
 - Worked in the restaurants team building the restaurant live orders app which is used by restaurants to accept, reject and view live orders.
 - Took an active lead position, engaging with product roadmap, discovery and planning.
@@ -65,11 +71,11 @@ Project ended due to client strategy pivot.
 - Converted the vast majority of the app from Java to Kotlin.
 - Streamlined release processes through automated steps and CI optimizations.
 
-[![TAB](./icon/tab.png)](http://www.theappbusiness.com/) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** (1 year, 8 months) | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
+![TAB](./icon/tab.png) [**The App Business**](http://www.theappbusiness.com/) |  **June 2016 - February 2018** (1 year, 8 months) | **Software Engineer (Android)** - *"The App Business is a mobile solutions company: we re-imagine the business and operations of the world’s leading organisations through mobile."*
 
-- [![Tesco](./icon/tesco.png)](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) _[**Tesco**](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) grocery home shopping._ Development on Tesco's new grocery home shopping app. Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
-- [![MetOffice](./icon/metoffice.png)](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) _[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather._ Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
-- [![Ford-GoDrive](./icon/ford.png)](https://play.google.com/store/apps/details?id=com.ford.godrive) _[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors._ Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
+- ![Tesco](./icon/tesco.png) _[**Tesco**](https://play.google.com/store/apps/details?id=com.tesco.grocery.view) grocery home shopping._ Development on Tesco's new grocery home shopping app. Features Kotlin and use of the new Architecture Components. Key features implemented include basket syncing architecture, delivery slots and the home screen.
+- ![MetOffice](./icon/metoffice.png) _[**MetOffice**](https://play.google.com/store/apps/details?id=uk.gov.metoffice.weather.android) weather._ Currently has a 4+ star rating and over 5,000,000 total downloads across Android and iOS. Features implemented include widgets, weather snapshots, weather warnings and the construction of a mapping SDK.
+- ![Ford-GoDrive](./icon/ford.png) _[**GoDrive**](https://play.google.com/store/apps/details?id=com.ford.godrive) by Ford Motors._ Rapid iteration on Ford's car hire service. Features worked on include user accounts, search, on street and hub parking functionality.
 
 - Pitched to clients. Delivering technical and non-technical presentations to stakeholders and team members. Mentored and led junior members of the team. Actively participated in recruitment and growth of the Android specialists.
 

@@ -21,7 +21,7 @@ Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and
 # Work #
 ---
 
-![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Senior Software Engineer (Android) - Contractor** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
+![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Senior Software Engineer (Android/Contract)** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
 
 - Working on building a new field services app used by thousands of engineers when installing smart meters, electrical vehicle charge points and
 in-home batteries.
@@ -31,7 +31,7 @@ in-home batteries.
 
 - Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
 
-![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android) - Contractor** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android/Contract)** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
 - Joined Stryde, a start-up incubated by BP Launchpad as their first software engineer hire.
 - Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.
@@ -40,7 +40,7 @@ in-home batteries.
 - App features developed include survey plan importing, end of day reporting and the development of a bespoke positional guidance system.
 - The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Dagger, architecture components, BDD tests, Room and coroutines.
 
-![Babylon Health](./icon/babylon.png) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android) - Contractor** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
+![Babylon Health](./icon/babylon.png) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android/Contract)** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*
 
 - Delivered an overhaul to the payments flow to support additional payment methods such as PayPal alongside various UI and UX improvements to simplify the checkout flow.
 - Worked on simplifying the analytics framework by substantially reducing the boilerplate required to implement events, helping improve the developer experience, enforcing code consistency and ultimately increasing code quality.
@@ -49,7 +49,7 @@ in-home batteries.
 - Worked frequently with other disciplines to mentor, share knowledge and ideate improvements to features, processes and ways of working.
 - Championed agile practices and cross-functional collaboration, allowing the team to deliver higher quality work given improved communication, transparency and stakeholder involvement.
 
-![Novoda](./icon/novoda.png) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Senior Software Engineer (Android) - Contractor** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
+![Novoda](./icon/novoda.png) [**Novoda**](https://novoda.com/) | **November 2018 - December 2018** (2 months) | **Senior Software Engineer (Android/Contract)** - *"Novoda, A Google Certified Agency, handcrafts successful Android and iOS apps. We partner with ambitious brands and innovative startups, committed to excellence in mobile software engineering and design."* 
 
 - Worked on a connected car app offered by Samsung Harman and AT&T America.
 - Led, developed and released Wi-Fi hotspot usability enhancements; this involved simplifying lots of complexity around hardware state management and conveying information to the user in a simple and delightful way.

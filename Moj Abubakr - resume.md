@@ -1,6 +1,6 @@
 # Moj Abubakr
 
-    Founder & Senior Software Engineer (Android)
+    Founder & Lead Software Engineer (Android)
 
 London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: May 2020*
 
@@ -16,22 +16,23 @@ London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](ht
 # Skills #
 ---
 
-Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVI / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Spek 2 / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis /  Codecov / Jenkins / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVI / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Spek 2 / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis / Circle CI / Gitub Actions / Jenkins / Codecov / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
 
 # Work #
 ---
 
-![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Senior Software Engineer (Android/Contract)** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
+![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Lead Software Engineer (Android/Contract)** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
 
 - Working on building a new field services app used by thousands of engineers when installing smart meters, electrical vehicle charge points and
 in-home batteries.
 - Playing a critical part in societies efforts to hit net zero and of octopus's vision of bringing affordable green energy to everyone.
+- Led development on the project; defined specs, user stories, technical approach, user testing strategies and architecture direction.
 
 ![Orderun](./icon/orderun.png) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
 
 - Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
 
-![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Senior Software Engineer (Android/Contract)** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
+![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Lead Software Engineer (Android/Contract)** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
 - Joined Stryde, a start-up incubated by BP Launchpad as their first software engineer hire.
 - Worked on delivering an industrious, greenfield application used by field workers to deploy and retrieve seismic loggers in varying parts of the world.

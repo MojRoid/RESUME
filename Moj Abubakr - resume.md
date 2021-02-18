@@ -29,6 +29,7 @@ in-home batteries.
 - Acted as mobile lead looking outwards and holistically, interacting with the wider business, leading architectural and technical approaches, CI/CD + testing pipeline setup and feature work with hands on involvement in the overall design, strategy, user research, product development and roadmapping.
 - Advocated agile principles, focusing on lean development techniques to deliver value often and quickly with a strong sense of user involvement.
 - Supported and facilitated user testing and engagement using both quantitative and qualitative data to provide a rapid and continuous feedback loop to help better inform decision making.
+- Mentored other members of the team to help distribute knowledge and up-skill where needed.
 - The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Hilt, architecture components, BDD tests, Espresso, GraphQL/Apollo, Room and coroutines.
 
 ![Orderun](./icon/orderun.png) [**Orderun**](https://orderun.app/) | **November 2019 - May 2020**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
@@ -43,6 +44,7 @@ in-home batteries.
 - Worked on defining the architecture, feature roadmap and milestones to deliver value quickly to establish a regular feedback loop with users and stakeholders.
 - Took initiative and facilitated where needed, advocating self-organization and shared ownership of the process given the small team size.
 - App features developed include survey plan importing, end of day reporting and the development of a bespoke positional guidance system.
+- Mentored other members of the team to help distribute knowledge and up-skill where needed.
 - The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Dagger, architecture components, BDD tests, Room and coroutines.
 
 ![Babylon Health](./icon/babylon.png) [**Babylon Health**](https://www.babylonhealth.com/) | **January 2019 - August 2019** (8 months) | **Senior Software Engineer (Android/Contract)** - *"Babylon’s mission is to put an accessible and affordable health service in the hands of every person on earth."*

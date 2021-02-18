@@ -1,36 +1,40 @@
 # Moj Abubakr
 
-    Founder & Lead Software Engineer (Android)
+    Lead Software Engineer (Android)
 
-London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: May 2020*
+London / [mojroid@gmail.com](mailto:mojroid@gmail.com) / [github.com/mojroid](https://github.com/MojRoid) / [linkedin.com/in/mojroid](https://www.linkedin.com/in/mojroid) / [medium.com/@mojroid](https://medium.com/@mojroid) / *Last Updated: February 2021*
 
 # Profile #
 ---
 
-*I'm a Software Engineer from London, specializing in Android development. I'm also founder and operator of a small startup called Orderun.*
+*I'm a Lead Software Engineer from London, specializing in Android development.*
 
 *I have experience leading and working with both in-house and remote agile teams to deliver beautiful, robust, scalable, world class Android applications. I embrace and advocate agile principles and continuous integration culture. I'm also big on architecture and Kotlin and enjoy learning new technologies and ways of working. I tend to always have a side project going to test, trial and apply new ideas and concepts.*
 
-*I graduated from London South Bank University with a BEng 1st class honours in [Computer Systems & Networks Engineering](https://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-beng-hons). I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants team at Deliveroo. I've contracted for various companies, allowing me to rapidly learn more about different domains, teams and ways of working. I'm currently enjoying running my own startup.*
+*I graduated from London South Bank University with a BEng 1st class honours in Computer Systems & Networks Engineering. I've worked with several high profile clients such as Ford, MetOffice and Tesco during my time at The App Business. I've also worked within the restaurants engineering team at Deliveroo. I've contracted for various companies, allowing me to rapidly learn more about different domains, teams and ways of working.*
 
 # Skills #
 ---
 
-Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVI / MVC / Dagger 2 / RxJava 2 / Retrofit 2 / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Spek 2 / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis / Circle CI / Gitub Actions / Jenkins / Codecov / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
+Kotlin / Java / C++ / [Android Things](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) / MVP Clean / MVVM / MVI / MVC / Dagger / Hilt / RxJava / Retrofit / GraphQL / Room / Architecture Components / Ktor / TDD / BDD  / JUnit / Mockito / Spek / Robolectric / Truth / Espresso / Spoon / [JGiven](https://medium.com/@mojroid/quick-and-simple-overview-to-ui-automation-on-android-a4d5398482e4) / Gradle / Git / Jira / Google Play Developer Console / TeamCity / Bitrise / Travis / Circle CI / Gitub Actions / Jenkins / Codecov / Charles / Postman / Butterknife / Timber / SQLite / Google Analytics / Segment / Snowflake / DataGrip / Sketch / Adobe Photoshop / Adobe Illustrator / Adobe Premiere / [film-making](https://www.youtube.com/watch?v=dLm-860kFT8) / [photography](http://moj-a.tumblr.com/).
 
 # Work #
 ---
 
 ![Octopus Energy](./icon/octopus-energy.png) [**Octopus Energy**](https://octopus.energy/) | **May 2020 - Current**  | **Lead Software Engineer (Android/Contract)** - *"Energy that's good for the planet, good for your wallet, and, honestly, good for your soul."*
 
-- Working on building a new field services app used by thousands of engineers when installing smart meters, electrical vehicle charge points and
+- Worked on building a new field services app used by thousands of engineers when installing smart meters, electric vehicle charge points and
 in-home batteries.
-- Playing a critical part in societies efforts to hit net zero and of octopus's vision of bringing affordable green energy to everyone.
-- Led development on the project; defined specs, user stories, technical approach, user testing strategies and architecture direction.
+- Played a critical part in societies efforts to hit net zero and of octopus's vision of bringing affordable green energy to everyone.
+- Acted as mobile lead looking outwards and holistically, interacting with the wider business, leading architectural and technical approaches, CI/CD + testing pipeline setup and feature work with hands on involvement in the overall design, strategy, user research, product development and roadmapping.
+- Advocated agile principles, focusing on lean development techniques to deliver value often and quickly with a strong sense of user involvement.
+- Supported and facilitated user testing and engagement using both quantitative and qualitative data to provide a rapid and continuous feedback loop to help better inform decision making.
+- The app was built following clean architecture and SOLID principles, feature modules, an MVVM/MVI hybrid pattern, 100% Kotlin, Hilt, architecture components, BDD tests, Espresso, GraphQL/Apollo, Room and coroutines.
 
-![Orderun](./icon/orderun.png) [**Orderun**](https://orderun.app/) | **November 2019 - Current**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
+![Orderun](./icon/orderun.png) [**Orderun**](https://orderun.app/) | **November 2019 - May 2020**  | **Founder** - *"The flexible point-of-sale ecosystem for restaurants, cafes and takeaways. Take orders and payments with real-time business insights at your fingertips."*
 
-- Founded Orderun, a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
+- Founded [**https://orderun.app**](https://orderun.app/), a point-of-sale ecosystem aiming to use technology to empower restaurants, cafes and takeaways to work better.
+- On hold due to the pandemic, might revisit in the future.
 
 ![Stryde](./icon/stryde.png) [**Stryde**](https://www.strydefurther.com/) | **September 2019 - November 2019** (3 months)  | **Lead Software Engineer (Android/Contract)** - *"STRYDE is a new kind of seismic company, reinventing subsurface imaging."*
 
@@ -83,23 +87,23 @@ Project ended due to client strategy pivot.
 # References #
 ---
 
-[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Sakis Kaliakoudas | Android Lead @ [Babylon Health](https://www.babylonhealth.com/) | July 2019 - *"Moj spent a few months in Babylon Health as an Android engineer working in one of the teams. I have to say that he is one of the fastest engineers I've seen delivering product work to the spec, while adhering at the same time to the codebase standards and the high code quality that is demanded at Babylon Health. He got on-boarded very quickly and started delivering from the first week. At the same time, he has the best communication skills I've seen to this day. Very thoughtful, interested in improving the product but also interested in improving the project technical infrastructure. Finally, very inclusive and respectful of others."*
+[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Sakis Kaliakoudas | Android Lead @ [Babylon Health](https://www.babylonhealth.com/) - *"Moj spent a few months in Babylon Health as an Android engineer working in one of the teams. I have to say that he is one of the fastest engineers I've seen delivering product work to the spec, while adhering at the same time to the codebase standards and the high code quality that is demanded at Babylon Health. He got on-boarded very quickly and started delivering from the first week. At the same time, he has the best communication skills I've seen to this day. Very thoughtful, interested in improving the product but also interested in improving the project technical infrastructure. Finally, very inclusive and respectful of others."*
 
-[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Paul Blundell | Head of Engineering @ [Novoda](https://novoda.com/) | January 2019 - *"Knowledgable self starter’ is the phrase that comes to mind when I think about Moj. I hired Moj as a Android contractor in 2018 after seeing his great portfolio of work, and he completed the two month contract perfectly. Moj's Android platform knowledge made a dramatic difference in the productivity level of our team. Moj would be an asset to any team."*
+[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Paul Blundell | Head of Engineering @ [Novoda](https://novoda.com/) - *"Knowledgable self starter’ is the phrase that comes to mind when I think about Moj. I hired Moj as a Android contractor in 2018 after seeing his great portfolio of work, and he completed the two month contract perfectly. Moj's Android platform knowledge made a dramatic difference in the productivity level of our team. Moj would be an asset to any team."*
 
 
-[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Dennis Simoni | Software Quality Assurance Analyst @ [Deliveroo](https://deliveroo.co.uk/) | October 2018 - *"Moj is a hard working professional Android developer with excellent communication skills, great ideas to help improve products and processes. He has a very analytical mindset and his code which is mainly written in Kotlin or Java is above standards. He has the ability to explain things in a very calm and easy to understand way and has been a great mentor to me and other colleagues. Moj is a developer that I have really enjoyed working with and I would recommend without thinking twice."*
+[LinkedIn Recommendation](https://www.linkedin.com/in/mojroid/) | Dennis Simoni | Software Quality Assurance Analyst @ [Deliveroo](https://deliveroo.co.uk/) - *"Moj is a hard working professional Android developer with excellent communication skills, great ideas to help improve products and processes. He has a very analytical mindset and his code which is mainly written in Kotlin or Java is above standards. He has the ability to explain things in a very calm and easy to understand way and has been a great mentor to me and other colleagues. Moj is a developer that I have really enjoyed working with and I would recommend without thinking twice."*
 
-[TAB Insights](http://www.theappbusiness.com/insights/tab-asks-ryan-loader) | Ryan Loader | Senior Software Engineer @ [The App Business](http://www.theappbusiness.com/) | November 2017 - *"One of our Android devs, Moj, shared an amazing product story - drilling into the detail of what moves a project from good to great. Moj’s story was about how labels are positioned in the Met Office app we built. Two things struck me during that presentation; the first was Moj’s brilliant explanation of complicated algorithms to a largely non-technical audience using just a whiteboard; he obviously had a very strong understanding of the subject matter. The second was the amount of work that went into a feature that no user was ever going to think about, but which improved the experience for everyone. It was a fantastic story I found really inspiring."*
+[TAB Insights](http://www.theappbusiness.com/insights/tab-asks-ryan-loader) | Ryan Loader | Senior Software Engineer @ [The App Business](http://www.theappbusiness.com/) - *"One of our Android devs, Moj, shared an amazing product story - drilling into the detail of what moves a project from good to great. Moj’s story was about how labels are positioned in the Met Office app we built. Two things struck me during that presentation; the first was Moj’s brilliant explanation of complicated algorithms to a largely non-technical audience using just a whiteboard; he obviously had a very strong understanding of the subject matter. The second was the amount of work that went into a feature that no user was ever going to think about, but which improved the experience for everyone. It was a fantastic story I found really inspiring."*
 
 #### Blogs
 
-[Medium](https://medium.com/@mojroid/android-gradle-tasks-written-in-kotlin-1aa6cc733773) | August 2018 - *Gradle tasks written in Kotlin.*
+[Medium](https://medium.com/@mojroid/android-gradle-tasks-written-in-kotlin-1aa6cc733773) | *Gradle tasks written in Kotlin.*
 
-[Medium](https://medium.com/@mojroid/android-automating-app-versioning-67aa201c9014) | August 2018 - *Automating app versioning.*
+[Medium](https://medium.com/@mojroid/android-automating-app-versioning-67aa201c9014) | *Automating app versioning.*
 
-[Medium](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83) | January 2018 - *Clean architecture on Android — Kotlin, Feature Modules, MVVM, Architecture Components, View Slices and BDD tests.*
+[Medium](https://proandroiddev.com/clean-architecture-on-android-using-feature-modules-mvvm-view-slices-and-kotlin-e9ed18e64d83) | *Clean architecture on Android — Kotlin, Feature Modules, MVVM, Architecture Components, View Slices and BDD tests.*
 
-[Medium](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) | December 2016 - *Android Things, Google's IoT platform.*
+[Medium](https://medium.com/@mojroid/the-quick-and-simple-guide-to-android-things-6592636e772f) | *Android Things, Google's IoT platform.*
 
-[IBM](https://developer.ibm.com/watson/blog/2015/07/13/london-south-bank-university-hackathon/) | July 2015 - *Winning team for the IBM Bluemix Hackathon held at LSBU.*
+[IBM](https://developer.ibm.com/watson/blog/2015/07/13/london-south-bank-university-hackathon/) | *Winning team for the IBM Bluemix Hackathon held at LSBU.*
